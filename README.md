@@ -22,4 +22,10 @@ Sistema para monitorar o nível de água, com ESP8266 e sensores bóia para nív
 - Sistema usa Tasmota e tem integração com Home Assistant via MQTT.
 
 
+## detalhes do projeto em breve
+
+
+### ....
+
+
 
